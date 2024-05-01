@@ -148,7 +148,7 @@ a,
 }
 
 img {
-     max-width: 100%;
+     max-width: 150%;
      height: auto;
 }
 
@@ -229,7 +229,7 @@ button {
 }
 
 .full {
-     width: 100%;
+     width: 40%;
      float: left;
      margin: 0;
      padding: 0;
@@ -2239,7 +2239,7 @@ line-height: 18px;
 
 font-weight: bold;
 
-line-height: 30px;
+line-height: 10px;
 }
 .lorem_text{ 
      width: 100%;
